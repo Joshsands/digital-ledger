@@ -16,7 +16,7 @@
 
 ## Visual Demonstration
 
-![Digital Ledger Snapshot](./public/icons/19-pwa-homework-demo-01)
+![Digital Ledger Snapshot](public/icons/19-pwa-homework-demo-01)
 
 ## Visual Demonstration
 * [Deployed Application](https://digital-ledger.herokuapp.com/)
